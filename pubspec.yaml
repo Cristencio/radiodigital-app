@@ -1,7 +1,7 @@
 name: radiodigital
 description: Rádio Digital - Estações e Reprodutor
 publish_to: 'none'
-version: 1.0.0+1
+version: 2.0.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -25,23 +25,23 @@ flutter:
   fonts:
     - family: Newsreader
       fonts:
-        - asset: lib\assets\fonts\Newsreader\Newsreader-Regular.ttf
+        - asset: lib/assets/fonts/Newsreader/Newsreader-Regular.ttf
           weight: 400
-        - asset: lib\assets\fonts\Newsreader\Newsreader-Medium.ttf
+        - asset: lib/assets/fonts/Newsreader/Newsreader-Medium.ttf
           weight: 500
-        - asset: lib\assets\fonts\Newsreader\Newsreader-SemiBold.ttf
+        - asset: lib/assets/fonts/Newsreader/Newsreader-SemiBold.ttf
           weight: 600
-        - asset: lib\assets\fonts\Newsreader\Newsreader-Bold.ttf
+        - asset: lib/assets/fonts/Newsreader/Newsreader-Bold.ttf
           weight: 700
-        - asset: lib\assets\fonts\Newsreader\Newsreader-Italic.ttf
+        - asset: lib/assets/fonts/Newsreader/Newsreader-Italic.ttf
           style: italic
     - family: Manrope
       fonts:
-        - asset: lib\assets\fonts\Manrope\Manrope-Regular.ttf
+        - asset: lib/assets/fonts/Manrope/Manrope-Regular.ttf
           weight: 400
-        - asset: lib\assets\fonts\Manrope\Manrope-Medium.ttf
+        - asset: lib/assets/fonts/Manrope/Manrope-Medium.ttf
           weight: 500
-        - asset: lib\assets\fonts\Manrope\Manrope-SemiBold.ttf
+        - asset: lib/assets/fonts/Manrope/Manrope-SemiBold.ttf
           weight: 600
-        - asset: lib\assets\fonts\Manrope\Manrope-Bold.ttf
+        - asset: lib/assets/fonts/Manrope/Manrope-Bold.ttf
           weight: 700
